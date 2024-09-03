@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Explorador
+comment1.params=t\ s
+comment1.target=java.lang.String[]\ tocar(java.lang.String,\ java.lang.String[])
+numComments=2
